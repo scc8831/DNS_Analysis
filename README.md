@@ -1,4 +1,4 @@
-# DSN_Analysis
+# DNS_Analysis
 
 ## parse OPNsense dns log and extract the domain
 usage:
